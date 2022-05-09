@@ -1,0 +1,199 @@
+body {
+  background: rgb(227, 236, 243);
+  padding: 40px;
+
+  font-family: 'Montserrat', sans-serif;
+}
+.Very_Big_Block {
+  background: white;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.sidebar {
+  background: rgb(72, 63, 83);
+  width: 370px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+.foto {
+  padding-left: 70px;
+  width: 200px;
+}
+.Very_Big_Block {
+  display: flex;
+}
+.All_about_me {
+  padding-left: 40px;
+  padding-right: 30px;
+  padding-top: 110px;
+  padding-bottom: 110px;
+}
+.Developer {
+  width: 160px;
+  height: 14px;
+  color: #000000;
+  font-family: Montserrat;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+  letter-spacing: 0.42px;
+}
+.Victorovich {
+  width: 341px;
+  height: 45px;
+  color: #000000;
+  font-family: Montserrat;
+  font-size: 45px;
+  font-weight: 700;
+  line-height: 89px;
+}
+.text_about_me {
+  width: 413px;
+  height: 20px;
+  color: #595959;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0.42px;
+  margin-bottom: 60px;
+}
+.My_Projects {
+  height: 21px;
+  color: #000000;
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-top: 30px;
+}
+.My_Edu {
+  height: 21px;
+  color: #000000;
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-top: 150px;
+}
+.Link {
+  width: 189px;
+  height: 63px;
+  color: #595959;
+  font-family: Montserrat;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0.42px;
+}
+.Dots {
+  width: 318px;
+  height: 5px;
+}
+
+.item {
+  font-weight: 700;
+}
+.Orange_text {
+  font-size: 16px;
+  font-weight: 700;
+  letter-spacing: 0.48px;
+  color: #ff6b08;
+}
+.otstup {
+  margin-top: 120px;
+}
+/*-------------------------------*/
+.Contakts_box {
+  background: rgb(72, 63, 83);
+  color: rgb(208, 211, 208);
+  width: 370px;
+  /*height: 200px;*/
+  padding-left: 20px;
+  padding-top: 20px;
+  padding: 20px;
+  box-sizing: border-box;
+  margin-top: 40px;
+  font-family: Montserrat;
+  font-size: 14;
+  font-weight: 400;
+  line-height: 24px;
+}
+.Contakts {
+  margin-bottom: 20px;
+  margin-left: 50px;
+}
+.telefon {
+  font-size: 14;
+  font-weight: 400;
+  line-height: 24px;
+  color: rgb(208, 211, 208);
+}
+.mail {
+  font-size: 14;
+  font-weight: 400;
+  line-height: 24px;
+  color: rgb(208, 211, 208);
+}
+.Ci {
+  font-size: 14;
+  font-weight: 900;
+  line-height: 30px;
+  color: rgb(208, 211, 208);
+  margin-right: 10px;
+}
+.Ei {
+  font-size: 14;
+  font-weight: 900;
+  line-height: 30px;
+  color: rgb(208, 211, 208);
+  margin-right: 10px;
+}
+
+/*-------------------------------*/
+.Tecnics_box {
+  background: rgb(72, 63, 83);
+  color: rgb(250, 207, 90);
+  width: 370px;
+  box-sizing: border-box;
+  /*height: 200px;*/
+  padding-left: 40px;
+  padding-top: 40px;
+  margin-top: 20px;
+  padding: 20px;
+}
+.Tech_Skils {
+  color: rgb(240, 248, 255);
+  font-family: Montserrat;
+  font-size: 14;
+  font-weight: 400;
+  line-height: 24px;
+  margin-bottom: 20px;
+  margin-left: 50px;
+}
+.Array {
+  color: rgb(240, 248, 255);
+}
+/*-------------------------------*/
+.Soft_box {
+  background: rgb(72, 63, 83);
+  width: 370px;
+  box-sizing: border-box;
+  /*height: 200px;*/
+  padding-left: 40px;
+  padding-top: 10px;
+  margin-top: 10px;
+  padding: 5px;
+  color: rgb(250, 207, 90);
+}
+.Soft_Skils {
+  color: rgb(255, 255, 255);
+  font-family: Montserrat;
+  font-size: 14;
+  font-weight: 400;
+  line-height: 24px;
+  margin-bottom: 20px;
+  margin-left: 50px;
+}
+
+/*.Big_Block {
+  display: flex;
+  flex-direction: row;
+}*/
